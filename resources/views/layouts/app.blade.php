@@ -20,10 +20,10 @@
     <!-- ***** All CSS Files ***** -->
 
     <!-- Style css -->
-    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
+    <link rel="stylesheet" href="https://adipost.herokuapp.com/assets/css/style.css">
 
     <!-- Responsive css -->
-    <link rel="stylesheet" href="{{asset('assets/css/responsive.css')}}">
+    <link rel="stylesheet" href="https://adipost.herokuapp.com/assets/css/responsive.css">
 
 <style>
 .form-input input
